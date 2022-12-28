@@ -76,3 +76,4 @@ Please see: https://github.com/stylemessiah/DisableGoogleAnalytics/blob/main/CHA
 ![GitHub All Releases](https://img.shields.io/github/downloads/stylemessiah/DisableGoogleAnalytics/total?label=Total%20Downloads%20%28All%20Releases%29&style=plastic)
 
 
+
