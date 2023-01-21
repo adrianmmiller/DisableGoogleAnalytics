@@ -65,7 +65,7 @@ All other work is credited above and **no one may fork or re-present this module
 
 ### Changelog: ###
 
-Please see: https://github.com/stylemessiah/DisableGoogleAnalytics/blob/main/CHANGELOG.md
+Please see: https://github.com/adrianmmiller/DisableGoogleAnalytics/blob/main/changelog.md
 
 
 ### Project Stats: ###
