@@ -1,0 +1,9 @@
+id=disablegoogleanalytics
+name=Disable Google Analytics
+version=v1.1
+versionCode=1
+author=73sydney
+description=Attempts To Disable Google Analytics And Ads Receivers In Packages
+support=https://github.com/adrianmmiller/DisableGoogleAnalytics
+updateJson=https://raw.githubusercontent.com/adrianmmiller/DisableGoogleAnalytics/main/update.json
+
