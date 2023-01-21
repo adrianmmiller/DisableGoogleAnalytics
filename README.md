@@ -28,28 +28,28 @@ analytics and ad receivers, so it will:
 
 
 - Once complete the service.sh script will delete itself
-- Once that happens any further interaction is purely via the included **fga** script as a binary
+- Once that happens any further interaction is purely via the included **dga** script as a binary
 in /system/(x)bin
  
-   **fga** takes 2 arguments, **disable** or **enable**, though i doubt too many will be looking to enable 
+   **dga** takes 2 arguments, **disable** or **enable**, though i doubt too many will be looking to enable 
    analytics and ad receivers, unless the disabling has unwanted effects on their system, which
    is high time to include the usual disclaimer that you run this at your own risk and not even
-   fga enable is garaunteed to undo the changes
+   dga enable is garaunteed to undo the changes
 
 
 ### Installation/Usage: ###
 
 - Install via Magisk Manager
-- After first run optmization has completed, any further interaction is purely via the included **fga** script as a binary
+- After first run optmization has completed, any further interaction is purely via the included **dga** script as a binary
 in /system/(x)bin:
 
-**fga** takes 2 arguments, **disable** or **enable**, though i doubt too many will be looking to enable 
+**dga** takes 2 arguments, **disable** or **enable**, though i doubt too many will be looking to enable 
 analytics and ad receivers, unless the disabling has unwanted effects on their system, which
 is high time to include the usual disclaimer that you run this at your own risk and not even
-fga enable is garaunteed to undo the changes
+dga enable is garaunteed to undo the changes
 
 **Uninstall Note:** Uninstalling the module **will not reverse the changes**, if your intention is to uninstall the module and re-enable the
-analytics and ad receivers, please run **fga enable** first
+analytics and ad receivers, please run **dga enable** first
 
 
 
